@@ -1,7 +1,7 @@
 {
   "qq_number": "308195990",
   "group_number": "1135274811",
-  "updated_at": "2026-11-24T14:53:10+00:00",
+  "updated_at": "2026-11-24T14:53:17+00:00",
   "skins": [
     {
       "name": "青の心动时刻（闷闷音效）",
@@ -16,6 +16,13 @@
       "thumb": "青_红_心动时刻_脆脆音效.bdi_py_26_light_thumb.png",
       "full": "青_红_心动时刻_脆脆音效.bdi_py_26_light_thumb.png",
       "file_id": "asset_500d2ba333f8428a8785141f61fb0aa3"
+    },
+    {
+      "name": "青の心动时刻（脆脆音效）",
+      "file": "青_心动时刻_脆脆音效.bdi",
+      "thumb": "青_心动时刻_脆脆音效.bdi_py_26_light_thumb.png",
+      "full": "青_心动时刻_脆脆音效.bdi_py_26_light_thumb.png",
+      "file_id": "asset_48abfbd4c80e4c698c57d8cef174e260"
     }
   ]
 }
