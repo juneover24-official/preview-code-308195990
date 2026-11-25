@@ -1,7 +1,7 @@
 {
   "qq_number": "308195990",
   "group_number": "1135274811",
-  "updated_at": "2026-11-25T15:51:12+00:00",
+  "updated_at": "2026-11-25T15:53:35+00:00",
   "skins": [
     {
       "name": "青の心动时刻（闷闷音效）",
@@ -32,18 +32,18 @@
       "file_id": "asset_246dd91218f24b939ead862006a49a04"
     },
     {
-      "name": "青の心动时刻（闷闷音效）",
-      "file": "青_心动时刻_闷闷音效.bds",
-      "thumb": "青_心动时刻_闷闷音效.bds_py_26_light_thumb.png",
-      "full": "青_心动时刻_闷闷音效.bds_py_26_light_thumb.png",
-      "file_id": "51960995"
-    },
-    {
       "name": "青の心动时刻（脆脆音效）",
       "file": "青_心动时刻_脆脆音效.bds",
       "thumb": "青_心动时刻_脆脆音效.bds_py_26_light_thumb.png",
       "full": "青_心动时刻_脆脆音效.bds_py_26_light_thumb.png",
       "file_id": "51854135"
+    },
+    {
+      "name": "青の心动时刻（闷闷音效）",
+      "file": "青_心动时刻_闷闷音效.bds",
+      "thumb": "青_心动时刻_闷闷音效.bds_py_26_light_thumb.png",
+      "full": "青_心动时刻_闷闷音效.bds_py_26_light_thumb.png",
+      "file_id": "51960995"
     }
   ]
 }
